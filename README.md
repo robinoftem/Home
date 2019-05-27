@@ -13,15 +13,7 @@
 
 ​<hr/>
 <h2>自我介绍：</h2><br/>
-<p style="text-indent:2em;font-size:17px;font-family: 宋体">我是<b>陈万祥</b>，英文名<b>robinofsky</b>,是一名数据开发和深度学习方面的爱好者，，到今天为止学习了一年。掌握的技能（大致说一下主要的）：</p>
-
-语言| 数据库|数据开发|机器学习 |深度学习 |物联网|TSD|
--|-|-|-|-|-|-|
-|C/C++|Mysql8.0 |Hadoop | 有监督| | | |
-|JAVA|Postgre |Storm | 无监督| | | |
-|Scala| Oracle|Spark |回归 | | | |
-|HTML+CSS+JS|Hive |Flume | | | | |
-|Python|Hbase | Sqoop| | | | |
+<p style="text-indent:2em;font-size:17px;font-family: 宋体">我是<b>陈万祥</b>，英文名<b>robinofsky</b>,是一名数据开发和深度学习方面的爱好者，，到今天为止学习了一年。掌握的技能（大致说一下主要的）：</p
 
 <h2><b>创建这个组织的初心</b></h2><br/>
 <p style="text-indent:2em;font-size:17px font-family: 宋体">平时学习感觉学习的资源没有充分的利用，图书馆环境好，书也多，去图书馆学习的人很多，看书的人却凤毛麟角，提这个事不是说我想要做一个方案去给改变一下这样的一个事，而是我想通过做这样一个组织，把相关知识进行更好的总结，能让组织下的人学到经典的东西，学到跟得上时代发展的东西，学到时代发展需要的东西。</p>
