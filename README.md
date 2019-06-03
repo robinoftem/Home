@@ -1,6 +1,8 @@
-<a href="https://github.com/RobinOfSky" class="linkgithub" style="top: 76%;left: 15%;">
-           <img src="https://i.loli.net/2019/05/26/5cea8954c0c9b82722.jpg" width="110px" height="110px"</a>
-
+<p align = "center">
+<a href="https://github.com/RobinOfSky" class="linkgithub" >
+           <img src="https://i.loli.net/2019/05/26/5cea8954c0c9b82722.jpg" width="110px" height="110px">
+</a>
+<br/>
 <b style="font-size:40px;color: orange">RoBinary组织<sub style="font-size: 15px">简称Robin</sub></b>
 
 <hr/>
@@ -10,21 +12,23 @@
 [![link](https://img.shields.io/badge/Log-CSDN-red.svg)](https://blog.csdn.net/qq_41848006)
 ![email](https://img.shields.io/badge/email163-tigerofsky-green.svg)
 ![commit](https://img.shields.io/github/last-commit/google/skia.svg)
-
+</p>
 ​<hr/>
-<h1>自我介绍：</h1><br/>
+<h1>Robinofsky简介：</h1><br/>
 <p style="text-indent:2em;font-size:16px;font-family: 黑体">我是<b>陈万祥</b>，英文名robinofsky,是一名数据开发和深度学习方面的爱好者。</p><br/>
 
 
 <h2><b>创建这个组织的初心</b></h2><br/>
-<p style="text-indent:2em;font-size:15px font-family: 黑体">平时学习感觉学习的资源没有充分的利用，图书馆环境好，书也多，去图书馆学习的人很多，看图书馆里面的书的人却凤毛麟角。提这个事不是说要让人们去图书馆看书才叫学习，而是这是一社会发展导致的问题：书很多，也很乱，导致林子大了，经典的书籍就不容易被人发现，从而导致初学者一开始没有接触到优质的知识，从而导致没学懂，严重一点固化读者的思维，这是一个很大的问题。所以我想通过做这样一个组织，一方面帮助那些初学者，另一方面帮助自己和组织者共同进步，从而找到自己的人生方向。总结一下就是下面四点：</p>
+<p style="text-indent:2em;font-size:15px font-family: 黑体">在平时学习中，我感觉学习的资源没有被充分的利用，图书馆的环境好且藏书也多。然而，虽然去图书馆学习的人很多，但是看图书馆的藏书的人却是凤毛麟角。在此述说此事并不是指人们去图书馆看书才能够称为学习，而是想述说一个社会发展导致的问题：书很多，却也很乱，用习语说就是林子大了。因此，经典的书籍就不易被人发现，进而导致初学者很难在最初接触到优质且急迫的知识。再深入一步，学习者容易出现没学懂，严重些可能会固化读者思维，这便是一个非常严重的问题。所以，我想通过做这样一个组织，一方面帮助那些初学者，另一方面帮助自己和组织者共同进步，从而找到自己的人生方向。
+总结一下就是下面四点：</p>
 1. 把相关知识进行更好的总结<br/>
 2. 能让组织下的人学到经典的东西<br/>
 3. 学到跟得上时代发展的东西<br/>
 4. 学到时代发展需要的东西<br/>
 5. 了解我们的生活，自然，人生，做好我们的人生规划，让我们不再迷茫！
 <h2><b>组织的目标</b></h2>
-<p style="text-indent:2em;font-size:17px font-family: 黑体">一方面给维护这个组织的人提供更高的研发环境，让他们找到属于自己和合伙人，进一步的去创业者，另一方面让这个组织下的人学到很棒的东西，然后更新替代这个组织的组织者，以此让这个组织更好的发展，让更多的人受益！</p>
+<p style="text-indent:2em;font-size:17px font-family: 黑体">
+一方面给予维护组织的人提供更好的研发环境，找到属于自己的伙伴，更进一步的发展；另一方面让在组织内的成员学习到非常好的东西，然后更新替代这个组织的组织者，以此更好的发展这个组织，让更多的人受益。！</p>
 
 <h2><b>组织的发展</b></h2>
 <p style="text-indent:2em;font-size:17px font-family: 黑体">
@@ -75,9 +79,12 @@
 <label><b>负责人：</b></label><br/>
 
 [![robinofsky](https://img.shields.io/badge/robinofsky-github-green.svg)](https://github.com/RobinOfSky)
-[![cutelittleangle](https://img.shields.io/badge/CuteLittleAngle-github-green.svg)](https://github.com/CuteLittleAngle)
+
 <br/>
 <label><b>主要贡献者：</b></label><br/>
+
+[![cutelittleangle](https://img.shields.io/badge/CuteLittleAngle-github-green.svg)](https://github.com/CuteLittleAngle)
+
 <label><b>目录：</b></label><br/>
 <h4>个人</h4>
 
